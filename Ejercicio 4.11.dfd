@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Ingrese un numero del 1 al 10"
+5
+1
+1
+n
+7
+0
+1
+18
+n >= 1 AND n <= 10
+4
+1
+39
+"Error: este numero se sale del limite"
+13
+7
+0
+1
+9
+n MOD 2=0
+4
+1
+26
+"El numero ",n," es impar"
+13
+4
+1
+24
+"El numero ",n," es par"
+13
+13
+1
